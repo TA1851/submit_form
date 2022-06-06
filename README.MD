@@ -58,11 +58,13 @@ UserForm に各Labelに値を入力し、入力した値をセルに書き込む
 
   * test -> UserForm1.Show vbModeless（UserFormの表示）
 
+---
 Note
 
 <img src="https://github.com/TA1851/submit_form/blob/main/img/submit1.PNG">
 <img src="https://github.com/TA1851/submit_form/blob/main/img/submit2.PNG">
 
+---
 Source code backup 取得は、VBCAを採用
 [参考記事](https://tonari-it.com/vba-vbac-git/)
 
