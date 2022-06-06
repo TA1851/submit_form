@@ -6,7 +6,7 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} UserForm1
    ClientTop       =   470
    ClientWidth     =   4740
    OleObjectBlob   =   "UserForm1.frx":0000
-   StartUpPosition =   1  'ƒI[ƒi[ ƒtƒH[ƒ€‚Ì’†‰›
+   StartUpPosition =   1  'ã‚ªãƒ¼ãƒŠãƒ¼ ãƒ•ã‚©ãƒ¼ãƒ ã®ä¸­å¤®
 End
 Attribute VB_Name = "UserForm1"
 Attribute VB_GlobalNameSpace = False
@@ -14,7 +14,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Option Explicit
-Private Sub Button1_Click()
+Private Sub Button1_Click()ã€€ã€€'ç™»éŒ²Button Click ã™ã‚‹ã¨UserFormã«è¨˜è¼‰ã•ã‚Œã¦ã„ã‚‹æƒ…å ±ã‚’ã‚»ãƒ«ã«æ›¸ãè¾¼ã‚€
     
     Dim lastRow As Long
     With Worksheets("sheet1")
@@ -34,7 +34,7 @@ Private Sub ExInputCls()
     TextBox4.Text = ""
     TextBox5.Text = ""
     TextBox6.Text = ""
-    '“ú•tƒeƒLƒXƒgƒ{ƒbƒNƒX‚ÉƒtƒH[ƒJƒX‚ğˆÚ‚·
+    'æ—¥ä»˜ãƒ†ã‚­ã‚¹ãƒˆãƒœãƒƒã‚¯ã‚¹ã«ãƒ•ã‚©ãƒ¼ã‚«ã‚¹ã‚’ç§»ã™
     TextBox1.SetFocus
 End Sub
 Private Sub TextBox1_Change()
