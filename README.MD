@@ -6,7 +6,10 @@ Submit form macro
 
 #### main/sample.xlsm
 
+- 業務改善の工数削減管理表
+
 UserForm に各Labelに値を入力し、入力した値をセルに書き込む。
+（手入力の簡易化）
 
 <img src="https://github.com/TA1851/submit_form/blob/main/img/Proceedure.png">
 
