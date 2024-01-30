@@ -11,7 +11,7 @@ Submit form macro
 UserForm に各Labelに値を入力し、入力した値をセルに書き込む。
 （手入力の簡易化）
 
-<img src="https://github.com/TA1851/submit_form/blob/main/img/Proceedure.png">
+<img src="https://github.com/TA1851/submit_form/blob/main/img/flow.png">
 
 * UserForm
   
